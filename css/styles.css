@@ -142,7 +142,6 @@ body {
   color: #fff;
   grid-template-areas: 
     "lista de platillos - siguenos en " 
-  
 }
 .diametros .lista {
   display: flex;
@@ -173,13 +172,10 @@ body {
   margin-right: 100px;
   position: center;
   cursor: pointer;
-
- 
 }
 @media (max-width: 1200px){
 
   html{
       font-size: 55%;
   }
-
 }
