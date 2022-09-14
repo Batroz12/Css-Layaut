@@ -39,7 +39,6 @@ body {
 
 .caja-platillos{
   display: grid;
-  justify-content: space-between;
   grid-template-columns:0.1fr 2.5fr ;
   gap:1.5rem;
   cursor: pointer;
